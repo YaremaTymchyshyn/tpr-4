@@ -1,0 +1,13 @@
+D:\4 course\trash\TPR_Lab3\Системний аналіз таск 3\bin\Debug\Системний аналіз таск 3.exe.config
+D:\4 course\trash\TPR_Lab3\Системний аналіз таск 3\bin\Debug\Системний аналіз таск 3.exe
+D:\4 course\trash\TPR_Lab3\Системний аналіз таск 3\bin\Debug\Системний аналіз таск 3.pdb
+D:\4 course\trash\TPR_Lab3\Системний аналіз таск 3\bin\Debug\MathNet.Numerics.dll
+D:\4 course\trash\TPR_Lab3\Системний аналіз таск 3\bin\Debug\MathNet.Numerics.xml
+D:\4 course\trash\TPR_Lab3\Системний аналіз таск 3\obj\Debug\Системний аналіз таск 3.csproj.AssemblyReference.cache
+D:\4 course\trash\TPR_Lab3\Системний аналіз таск 3\obj\Debug\Системний_аналіз_таск_3.Form1.resources
+D:\4 course\trash\TPR_Lab3\Системний аналіз таск 3\obj\Debug\Системний_аналіз_таск_3.Properties.Resources.resources
+D:\4 course\trash\TPR_Lab3\Системний аналіз таск 3\obj\Debug\Системний аналіз таск 3.csproj.GenerateResource.cache
+D:\4 course\trash\TPR_Lab3\Системний аналіз таск 3\obj\Debug\Системний аналіз таск 3.csproj.CoreCompileInputs.cache
+D:\4 course\trash\TPR_Lab3\Системний аналіз таск 3\obj\Debug\Системни.4C38A75A.Up2Date
+D:\4 course\trash\TPR_Lab3\Системний аналіз таск 3\obj\Debug\Системний аналіз таск 3.exe
+D:\4 course\trash\TPR_Lab3\Системний аналіз таск 3\obj\Debug\Системний аналіз таск 3.pdb
